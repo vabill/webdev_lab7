@@ -17,20 +17,14 @@ td, th {
 	
 }
 
-th {
-	text-align: center;
-	font-size: 24px;
-}
-
-td {
-	text-align: center;
-	font-size: 18px;
-	font-weight: bold;
-}
-
 h1 {
 	position: relative;
 	text-align: center;
 	font-family: "Lucida Console", monospace;
 	font-size: 50px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
 }
