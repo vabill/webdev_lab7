@@ -4,6 +4,7 @@ body {
 	background-size: cover;
 	margin: 0;
 	background-attachment: fixed;
+	color: white;
 }
 
 #planets {
@@ -19,13 +20,11 @@ td, th {
 th {
 	text-align: center;
 	font-size: 24px;
-	color: white;
 }
 
 td {
 	text-align: center;
 	font-size: 18px;
-	color: white;
 	font-weight: bold;
 }
 
@@ -34,5 +33,4 @@ h1 {
 	text-align: center;
 	font-family: "Lucida Console", monospace;
 	font-size: 50px;
-	color: white;
 }
