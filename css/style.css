@@ -7,7 +7,7 @@ body {
 }
 
 #planets {
-	border-collapse: collapse
+	border-collapse: collapse;
 }
 
 td, th {
@@ -30,7 +30,7 @@ td {
 }
 
 h1 {
-	position: realitve;
+	position: relative;
 	text-align: center;
 	font-family: "Lucida Console", monospace;
 	font-size: 50px;
