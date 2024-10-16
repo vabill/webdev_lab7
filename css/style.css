@@ -1,0 +1,35 @@
+body {
+	background-image: url("../images/background.png");
+	background-position: center;
+	background-size: cover;
+	margin: 0;
+	background-attachment: fixed;
+}
+
+#planets {
+	border-collapse: collapse
+}
+
+td, th {
+	border: 1px solid;
+	font-family: "Lucida Console", monospace;
+}
+
+th {
+	text-align: center;
+	font-size: 24px;
+	font-color: white;
+}
+
+td {
+	text-align: center;
+	font-size: 18px;
+	font-color: white;
+}
+
+h1 {
+	position: realitve;
+	text-align: center;
+	font-family: "Lucida Console", monospace;
+	font-size: 50px;
+}
